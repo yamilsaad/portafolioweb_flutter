@@ -92,6 +92,9 @@ flutter:
     - family: Dancing Script
       fonts:
         - asset: assets/fonts/DancingScript-Bold.ttf
+    - family: Staatliches
+      fonts:
+        - asset: assets/fonts/Staatliches-Regular.ttf
   
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
